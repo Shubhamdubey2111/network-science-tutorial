@@ -5,4 +5,4 @@ required to make the graph connected ?
 
 This program determines the answer to the above question.
 
-A plot is drawn for _Size of the graph_ Vs. _No. of edges required to make the graph connected_.
+A plot is drawn for _Size of the graph_ Vs. _No. of edges required to make the graph [connected](https://en.wikipedia.org/wiki/Connectivity_(graph_theory))_.
