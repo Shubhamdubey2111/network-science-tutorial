@@ -4,5 +4,5 @@ A network is said to have [communities](https://en.wikipedia.org/wiki/Community_
 Finding communities in a network is useful in numerous situations, and can result in valuable insights in the network.  
 But, detecting communities in a network has always been a challenging task. Several methods have been proposed attempting to detect communities.  
 The directory contains programs for community detection in a network using the following two approaches :
-* Using brute-force method.
-* Implementing Girvan-Newman algorithm.
+* Using [brute-force method](https://en.wikipedia.org/wiki/Brute-force_search).
+* Implementing [Girvan-Newman algorithm](https://en.wikipedia.org/wiki/Girvan–Newman_algorithm).
