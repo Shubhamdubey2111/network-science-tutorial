@@ -4,7 +4,7 @@ The program tests whether there is a correlation between PageRank and DegreeRank
 
 The dataset used is that of [High-energy physics theory citation network](https://snap.stanford.edu/data/cit-HepTh.html).
 
-## Ouput Plot
+## Output Plot
 ![Indegree Vs PageRank](https://github.com/Shubhamdubey2111/Network-Science/blob/master/PageRank%20Implementation/DegreeRank%20Vs%20PageRank/Indegree_vs_pagerank.png)
 
 __Following conclusions are drawn from the above plot :__
