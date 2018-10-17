@@ -1,2 +1,2 @@
-# Network Science
-This repository contains all the programs related to [Network Science](https://en.wikipedia.org/wiki/Network_science).
+# Social Network Analysis
+This repository contains all the program source codes writteen while I was learning Social Network Analysis.
